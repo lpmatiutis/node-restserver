@@ -10,7 +10,12 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "bcryptjs": "^2.4.3",
         "body-parser": "^1.18.3",
-        "express": "^4.16.4"
+        "express": "^4.16.4",
+        "imagemin": "^6.1.0",
+        "mongoose": "^5.4.4",
+        "mongoose-unique-validator": "^2.0.2",
+        "underscore": "^1.9.1"
     }
 }
